@@ -1,0 +1,5 @@
+fastapi==0.121.2
+uvicorn[standard]==0.41.0
+httpx==0.28.1
+pydantic-settings==2.13.1
+piper-tts==1.5.0
